@@ -353,7 +353,7 @@ class HealthBar extends Sprite{
         this.width = 200;
         this.height = 268 / 6;
         this.image = new Image();
-        this.image.src = "images/healthBar.png"
+        this.image.src = "images/healthbar.png"
         this.player = player;
         this.sy = 268 * 5 / 6;
     }
